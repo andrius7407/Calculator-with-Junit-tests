@@ -10,5 +10,4 @@ import org.junit.runners.Suite;
 	CalculatorTest.class
 })
 
-public class CalcTestSuite{
-}
+public class CalcTestSuite {}
