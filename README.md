@@ -1,1 +1,1 @@
-# Calculator-with-Junit-tests
+# Calculator with Junit tests
