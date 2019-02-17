@@ -2,7 +2,7 @@ import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
 
-public class CalcTestSuiteRunner{
+public class CalcTestSuiteRunner {
 	public static void main(String[] args){
 		
 		Result result = JUnitCore.runClasses(CalcTestSuite.class);
